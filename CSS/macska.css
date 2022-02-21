@@ -1,0 +1,20 @@
+/*         
+szelektor {
+tulajdonsag: ertek;
+}
+*/
+p {
+color: blue;
+}
+nav a {
+color: brown;
+padding: 20px;
+background-color: hotpink;
+}
+h2, h3 {
+color: purple;
+}
+nav {
+    border: 1px solid black;
+    padding: 20px;
+}
