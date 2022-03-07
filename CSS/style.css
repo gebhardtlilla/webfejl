@@ -1,0 +1,94 @@
+#p1 {
+    text-align: left;
+}
+
+#p2 {
+    text-align: center;
+}
+
+#p3 {
+    text-align: right;
+}
+
+#p4 {
+    text-align: justify;
+}
+
+#p5 {
+    /* text-decoration: underline overline;     */
+    text-decoration-color: crimson;
+    text-decoration-thickness: 3px;
+    text-decoration-line: underline line-through;
+}
+ 
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline red dotted;
+}
+
+#p6 {
+    /* behúzás */
+    text-indent: 3cm;
+}
+
+#p7 {
+    text-shadow: 1px 3px 2px gray;
+/* jobbraeltolás, lefele, elmosás */
+}
+
+#p8 {
+    text-shadow: 0px 0px 3px blue;
+}
+
+#p9 {
+    text-transform: uppercase ;
+}
+
+#p10 {
+    text-transform: lowercase;
+}
+
+#p11 {
+    text-transform: capitalize;
+}
+
+#p12 {
+    text-align: justify;
+    line-height: 3em;
+}
+
+#p13 {
+    background-color: bisque;
+    white-space: pre-line;
+    /* nowrap, pre-wrap, normal */
+}
+
+#p14 {
+background-color: tomato;
+}
+
+#p15 {
+    background-color: rgb(196, 0, 0);
+}
+
+#p16 {
+    background-color: rgb(246, 135, 246);
+}
+
+#p17 {
+    background-color: rgba(158, 26, 14, 0.651);
+}
+
+#p18 {
+    background-color: #968097 ;
+}
+
+#p19 {
+    /* background-color: #b8860b; */
+    background-color: rgb(184, 134, 11);
+    text-decoration-color: #808080;
+    font-size: 150%;
+    
+}
